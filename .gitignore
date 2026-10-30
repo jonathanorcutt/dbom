@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/JEO3.DBOM/.vs/JEO3.DBOM.slnx/FileContentIndex
+/JEO3.DBOM/bin
+/JEO3.DBOM/obj
+/JEO3.DBOM/.vs/JEO3.DBOM.slnx

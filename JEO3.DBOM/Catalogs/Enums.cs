@@ -1,0 +1,29 @@
+﻿namespace JEO3.Providers.Catalogs
+{
+    public enum SchemaQueryType
+    {
+        DatabaseQuery,
+        SchemaQuery,
+        TableQuery,
+        ColumnQuery,
+        RelationQuery,
+        IndexQuery,
+        StoredProcedureDefinitionQuery,
+        ViewDefinitionQuery,
+        FunctionDefinitionQuery,
+        UserDefinedTypeDefinitionQuery,
+        StoredProcedureParameterQuery,
+        FunctionParameterQuery,
+        ViewColumnQuery,
+        UserDefinedTypeColumnQuery,
+        CheckConstraintQuery,
+        ExtendedPropertyQuery,
+        MissingIndexQuery,
+        StatisticQuery,
+        TriggerQuery,
+        SynonymQuery,
+        DatabasePrincipalQuery,
+        DatabasePermissionQuery,
+        DatabaseRoleMembershipQuery
+    }
+}
