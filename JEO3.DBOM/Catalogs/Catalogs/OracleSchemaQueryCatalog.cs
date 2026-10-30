@@ -1,6 +1,4 @@
-﻿using JEO3.Providers.Catalogs.Catalogs;
-
-namespace JEO3.Providers.Catalogs
+﻿namespace JEO3.Providers.Catalogs
 {
     internal sealed class OracleSchemaQueryCatalog : BaseSchemaQueryCatalog
     {

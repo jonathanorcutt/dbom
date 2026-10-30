@@ -1,4 +1,4 @@
-﻿namespace JEO3.Providers.Catalogs.Catalogs
+﻿namespace JEO3.Providers.Catalogs
 {
     public abstract class BaseSchemaQueryCatalog : ISchemaQueryCatalog
     {
