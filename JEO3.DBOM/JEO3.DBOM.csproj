@@ -7,6 +7,10 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <None Include="JEO3.DBOM.slnx" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.1" />
 	  <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="11.0.0-rc.3.26522.148" />
 	  <PackageReference Include="Microsoft.SqlServer.Types" Version="170.1000.7" />
