@@ -23,7 +23,6 @@ namespace JEO3.Extensions
             Type targetType = typeof(T);
             DataTable dt = new DataTable(targetType.Name);
 
-            // 🌟 THE FINAL FIX: Resolving pure generic properties array from cache!
             PropertyInfo[] properties = MetaDataCache.GetProperties(targetType);
 
             foreach (PropertyInfo prop in properties)
